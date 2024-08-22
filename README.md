@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastian Lopez 
 =======================================================================================================================================  
-I'm passionate about data analysis with skills in SQL, Tableau, Power BI, and Google Sheets. I have completed the TripleTen BIA certificate.  
+I'm a Leasing Consultant with a strong passion for data analysis and a diverse background. Proficient in SQL, Tableau, Power BI, and Google Sheets, I've recently completed the TripleTen BIA certificate, enhancing my analytical skills.
+
+With a degree in theatre, I bring creativity and effective communication to problem-solving. I'm aiming to transition into a data analyst role to leverage my skills and contribute to impactful projects.
+
+Let's connect and explore opportunities in data analytics!  
 * 🌍  I'm based in Lawrenceville, GA
 * ✉️  You can contact me at [Josebastianlop16@gmail.com](mailto:Josebastianlop16@gmail.com)
 * 🧠  I'm learning Python
